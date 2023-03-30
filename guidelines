@@ -1,0 +1,18 @@
+Guideline para o projeto do aplicativo de e-commerce TopSport:
+
+Recomendações de práticas de versionamento a serem seguidas pelo time de engenharia de software:
+
+1 - Faça um fork do projeto do aplicativo, pois somente o proprietário possuirá acesso de "push" no master do repositório original, de forma a manter o aplicativo funcionando enquanto as novas funcionalidades são desenvolvidas.
+
+2 - Crie um branch para alterações no master, para que você possa desenvolver novas funcionalidades na sua versão.
+
+3 - Faça seus commits para colaborar com a equipe no aperfeiçoamento do projeto, desenvolvendo soluções que possam ser reutilizadas.
+
+4 - Ao concluir cada nova funcionalidade, faça push dessa branch para seu projeto no GitHub.
+
+5 - Abra um pull request no GitHub para iniciar uma thread de discussão para revisão do código junto ao proprietário.
+
+6 - Mantenha o diálogo com o proprietário do código por meio de mensagens em seus commits para verificar a necessidade de ajustes na solução apresentada.
+
+7 - O proprietário deve analisar o código para decidir se faz merge na master do projeto ou se fecha o pull request.
+
